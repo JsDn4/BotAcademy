@@ -1,4 +1,4 @@
-<h2 align="center">Repository for BotAcademy</h2 
+<1 align="center">Repository for BotAcademy</h1>
 
 <h2 align="center">Hi 👋, This is Bot Academy</h2>
 <h3 align="center">A bot dedicate to help students in his doubts</h3>
